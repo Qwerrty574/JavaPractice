@@ -1,1 +1,1 @@
-JavaPractic
+JavaPractice
